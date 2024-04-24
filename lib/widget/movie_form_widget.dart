@@ -68,7 +68,7 @@ class MovieFormWidget extends StatelessWidget {
     ),
     decoration: const InputDecoration(
         border: InputBorder.none,
-        hintText: 'Type something...',
+        hintText: 'Description',
         hintStyle: TextStyle(
             color: Colors.white60
         )
